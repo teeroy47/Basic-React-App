@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1743454876849",
+    "username": "teeroy",
+    "email": "t@gmail.com",
+    "password": "$2b$10$MCrpvZoIJebnHJSBMi2aE.8t3S2OzM0jV6Vb1TLnfPwtd2juMkGrm",
+    "createdAt": "2025-03-31T21:01:16.849Z"
+  },
+  {
+    "id": "1743454978709",
+    "username": "unice",
+    "email": "unie@gmail.com",
+    "password": "$2b$10$Lp609O/bVBY4YbX/BYb2m.jWN1Ndd936bUDbgT9eLwUu7Xc4mQ7Zq",
+    "createdAt": "2025-03-31T21:02:58.709Z"
+  },
+  {
+    "id": "1743456773115",
+    "username": "sharon",
+    "email": "s@gmail.com",
+    "password": "$2b$10$MqNlZBkDLmglmPwo88kHdedpxnANb1BdHXrwHiZUd0c7geSHps8C2",
+    "createdAt": "2025-03-31T21:32:53.115Z"
+  },
+  {
+    "id": "1743458116396",
+    "username": "testuser1",
+    "email": "teeroyy@test.com",
+    "password": "$2b$10$pqAgR7xgB85GHclzvIidnuQIQo.KcfaqHhx5YPidwzdrngpNvCUnm",
+    "createdAt": "2025-03-31T21:55:16.396Z"
+  },
+  {
+    "id": "1743463662521",
+    "username": "teeroy",
+    "email": "tapiwa47@gmail.com",
+    "password": "$2b$10$Ij05bekGUGkL9dHv1v5uWOUil306GbKh8Wqtb4OBT7HUoBk6b8h3u",
+    "createdAt": "2025-03-31T23:27:42.521Z"
+  },
+  {
+    "id": "1743463776934",
+    "username": "taps",
+    "email": "chiunye16@gmail.com",
+    "password": "$2b$10$aGK1MSHAH86WspFMDdfwLu56J/EOWvlE2.4QnGPODzNuIB0EwWT0S",
+    "createdAt": "2025-03-31T23:29:36.934Z"
+  },
+  {
+    "id": "1743463955588",
+    "username": "testuser12",
+    "email": "teeroyy47@test.com",
+    "password": "$2b$10$Z77d29D3q1sS7bmq4BSuHew.yRAqe0QTjGeLpkk69qd2jaur8fuiK",
+    "createdAt": "2025-03-31T23:32:35.588Z"
+  },
+  {
+    "id": "1745013544846",
+    "username": "teeroyy47",
+    "email": "chiunye16@gmail.comm",
+    "password": "$2b$10$fuxnnUCxHJ4K6a88/4bbNeljbDZ45ENbYxWInYJGJ8noZ6UxXHgii",
+    "createdAt": "2025-04-18T21:59:04.846Z"
+  }
+]
